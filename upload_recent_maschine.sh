@@ -6,7 +6,7 @@ CURDATE=$(date +%d-%m-%Y"_"%H:%M:%S);
 # Configuration
 SOURCE_FOLDER="/Volumes/STUDIO/PROJECTS/MASCHINE"
 HOURS=8
-GDRIVE_FOLDER_ID="1JK7DWRTYKutuAaNVn7GgwH-1PDryLqsj"
+GDRIVE_FOLDER_ID=""
 GDRIVE_FOLDER="FILES___${CURDATE}"
 GDRIVE_REMOTE="gdrive:" # Your rclone remote name
 
